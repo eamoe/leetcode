@@ -1,4 +1,4 @@
-package em.canlaceflowers;
+package em.canplaceflowers;
 
 public class Test {
 
